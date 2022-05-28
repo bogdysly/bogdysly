@@ -2,7 +2,7 @@
 - 👀 I’m interested in marketing
 - 🌱 I’m currently learning to marketing
 - 💞️ I’m looking to collaborate with a team
-- 📫 How to reach me ...
+- 📫 How to reach me . Contact me on email :slaygood2008@gmail.com
 
 <!---
 bogdysly/bogdysly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
